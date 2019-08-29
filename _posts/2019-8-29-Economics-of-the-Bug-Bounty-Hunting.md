@@ -6,14 +6,14 @@ title: Economics of the bug bounty hunting
 Hello! This is my first time presenting my thoughts about bug bounty to the public, so I'd like to start with a short self introduction.
 
 ## whoami
-My name is Dmitriy and I have been a full-time bug bounty hunter since 2016. I ran into Hackerone in the summer of 2015. It was during the time when things were not going very well with my Ad Tech start up. I was always interested in web security and looking for bugs surprisingly turned out to be a hobby, which can pay some bills. By the end of 2015 i left my start-up thinking that I'll take a break for a few months and then decide what I want to do next. In the following months my little bug hunting hobby went pretty well. I signed up on Bugcrowd and Synack. Then joined a $250k challenge organized by Mark Litchfield (thanks, Mark!) and realized that i can do this bug-hunting full time.
+My name is Dmitriy and I have been a full-time bug bounty hunter since 2016. I ran into Hackerone in the summer of 2015. It was during the time when things were not going very well with my Ad Tech start up. I was always interested in web security and looking for bugs surprisingly turned out to be a hobby, which can pay some bills. By the end of 2015 i left my start-up thinking that I'll take a break for a few months and then decide what I want to do next. In the following months my little bug hunting hobby went pretty well. I signed up on Bugcrowd and Synack. Then joined a $250k challenge organized by Mark Litchfield (thanks, Mark!) and realized that i can do this bug hunting full time.
 
 ## Introduction
-Bug hunting is a great area, where you can be rewarded for solving hard intellectual challenges. The intellectual challenge part has always been (and i hope it will continue to be) a source of motivation for me. The fact that I was able to exploit a super tricky bug can be incredibly emotionally rewarding. In this article i want to speak about other side of the bug-bounty hunting — economical success.
+Bug hunting is a great area, where you can be rewarded for solving hard intellectual challenges. The intellectual challenge part has always been (and i hope it will continue to be) a source of motivation for me. The fact that I was able to exploit a super tricky bug can be incredibly emotionally rewarding. In this article i want to speak about other side of the bug bounty hunting — economical success.
 
-Bug-hunting is a field that most of the time is individual work. Two obvious economical success metrics for an individual are earnings ($) and hourly rate (**$Rate = $/hr**).
+Bug hunting is a field that most of the time is individual work. Two obvious economical success metrics for an individual are earnings ($) and hourly rate (**$Rate = $/hr**).
 
-Every experienced bug-hunter has a sense that helps him understand which programs are worth the attention and which ones are not worth spending the time.
+Every experienced bug hunter has a sense that helps him understand which programs are worth the attention and which ones are not worth spending the time.
 
 So how do you tell which program is good? The key metric here is hourly rate, that you are making on a program. Of course, programs and platforms pay for bugs, not for the hours spent. Finding bugs is a stochastic process, so we can correctly measure $/hr only after spending a decent amount of time on a program. However, pretty fast you intuitively evaluate (more likely, compare to other programs) your expected $/hr value and make a decision regarding spending the time on the program.
 
@@ -34,7 +34,7 @@ The formula here will be:
 
 **SUM** here represents a sum across all bug classes, that you are looking into.
 
-Every full-time bug-hunter dreams about [$29k/hr](https://www.zdnet.com/article/relying-on-bug-bounties-not-appropriate-risk-management-katie-moussouris/ "$29k/hr") :). So to be successful (in economical terms) you need to maximize your $/hr rate.
+Every full-time bug hunter dreams about [$29k/hr](https://www.zdnet.com/article/relying-on-bug-bounties-not-appropriate-risk-management-katie-moussouris/ "$29k/hr") :). So to be successful (in economical terms) you need to maximize your $/hr rate.
 
 ## Maximizing $Rate
 
