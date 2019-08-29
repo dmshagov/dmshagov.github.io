@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-### Contact me
+### Contacts
 
 Twitter: [@dmi3sh](https://twitter.com/dmi3sh)
+
 HackerOne: [@lwsk](https://hackerone.com/lwsk)
