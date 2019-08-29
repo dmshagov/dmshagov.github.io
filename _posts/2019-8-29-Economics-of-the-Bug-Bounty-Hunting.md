@@ -78,15 +78,15 @@ I remember doing calculations after my first year in bug bounty and it turned ou
 
 To keep things simple, we talked about only 3 parameters: Probability of finding a bug, Payout for the bug, and the Chances of being duped.
 But there are more things, that can be taken into account:
-1. Chances of getting N/A or OOS (out of scope).
+I. Chances of getting N/A or OOS (out of scope).
 
 If you look for something that is not clearly in scope, then you might be simply wasting your time.
 
-2. Chances of being paid.
+II. Chances of being paid.
 
 There's always a chance that a program will ignore your report, shut down or refuse to pay for other reasons.
 
-3. Chances of being invited to a event/program.
+III. Chances of being invited to a event/program.
 
 You may receive invites to programs and live events based on your previous activity. Sometimes it might mean that to receive a juicy invite you need to spend time on a program, which is not the best in terms of **$Rate**.
 
