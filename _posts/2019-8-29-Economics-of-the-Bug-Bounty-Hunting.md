@@ -38,7 +38,7 @@ The formula here will be:
 
 Every full-time bug hunter dreams about [$29k/hr](https://www.zdnet.com/article/relying-on-bug-bounties-not-appropriate-risk-management-katie-moussouris/ "$29k/hr") :). So to be successful (in economical terms) you need to maximize your $/hr rate.
 
-## Maximizing $Rate
+## Maximizing hourly rate
 
 After we know the formula it's easy to understand what to do:
 1. Look for programs / places / bug classes which have the biggest bug expected value (**Bug$EV = ProbabilityOfFindingBug \* Payout**).
