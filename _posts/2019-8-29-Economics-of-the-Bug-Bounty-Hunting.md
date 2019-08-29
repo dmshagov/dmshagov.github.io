@@ -98,3 +98,6 @@ I have a good example of this where i fell victim to my own attitude. I was invi
 Sometimes you get into situations where you keep exploring one program and stick to it for months. It is paying well, but you keep receiving new invites. The main issue here is that it's hard to evaluate a new program without testing it and submitting at least one report.
 
 This situation is known in math as [Multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit). It turns out, that the most trivial idea of spending 90% of your time on the best paying program and leaving 10% to explore and evaluate new targets is still a good way to maximize your earnings. 
+
+## P.S.
+This is my first blog post and i'll appreciate any feedback. Ping me on twitter [@dmi3sh](https://twitter.com/dmi3sh) and let me know what you think.
