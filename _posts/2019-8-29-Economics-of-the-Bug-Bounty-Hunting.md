@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Bug Bounty Economics
+title: Economics of the bug bounty hunting
 ---
 
-# Economics of bug bounty hunting
 Hello! This is my first time presenting my thoughts about bug bounty to the public, so I'd like to start with a short self introduction.
 
 ## whoami
