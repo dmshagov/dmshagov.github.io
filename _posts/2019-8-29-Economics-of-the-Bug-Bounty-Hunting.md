@@ -78,6 +78,7 @@ I remember doing calculations after my first year in bug bounty and it turned ou
 
 To keep things simple, we talked about only 3 parameters: Probability of finding a bug, Payout for the bug, and the Chances of being duped.
 But there are more things, that can be taken into account:
+
 I. Chances of getting N/A or OOS (out of scope).
 
 If you look for something that is not clearly in scope, then you might be simply wasting your time.
