@@ -42,7 +42,7 @@ After we know the formula it's easy to understand what to do:
 1. Look for programs / places / bug classes which have the biggest bug expected value (**Bug$EV = ProbabilityOfFindingBug \* Payout**)
 2. Minimize the chances of being duped.
 
-#### Finding bugs with the biggest expected value (Bug$EV)
+### Finding bugs with the biggest expected value (Bug$EV)
 
 Bug Expected Value is **ProbabilityOfFindingBug * Payout**.
 
@@ -62,7 +62,7 @@ What should you focus on? I think it should be on Stored XSS. The probability of
 
 As an example, on the Verizon Media program, looking at their bounty table I believe that this is exactly the case for them and SSRF/XXE.
 
-#### Decreasing the chances of being duped
+### Decreasing the chances of being duped
 For usual programs, everything is pretty straightforward:
 1. Look at parts of scope with less competition (things that are harder to set up, areas that require you to buy subscription and etc)
 2. Look at programs with less competition
